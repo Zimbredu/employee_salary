@@ -12,7 +12,8 @@
     <div align="left"> ![114234_200sc](https://user-images.githubusercontent.com/66042254/155350239-7e97453e-7b5c-41ad-ba96-682fe8e0b004.jpg)</div>
 >> Após executar ***Run Application***.
 >>> **Obs**.: Utilize a vírgula para valores de ponto flututante. 
->>-   Insira valores para ***boss*** (String firstName, String lastName, double salary ..
+>>-   Insira valores para ***boss*** (String firstName, String lastName, double salary).
 >>-   Insira valores para ***commissionWorker***( String firstName, String lastName, double salary, double commission, int quantity ).
 >>-   Insira valores para ***pieceWorker***( String firstName, String lastName, double wage,  int numerOfItems ).
 >>-   Insira valores para ***hourlyWorker***( String firstName, String lastName, double wagePerHour, double hourWorker).
+>>> A seguir a saída executa pala ***classe javax.swing.JOptionePane***.
