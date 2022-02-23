@@ -2,15 +2,6 @@
 [![contato](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()</p>
 
-[![contato](https://user-images.githubusercontent.com/66042254/155343193-fea48059-2b0c-488f-8eb9-d156c4d2ba4c.jpg)]()
-
-<div align="center">
-  <img src="![114234](https://user-images.githubusercontent.com/66042254/155343193-fea48059-2b0c-488f-8eb9-d156c4d2ba4c.jpg)
-" width="500px"/>
-       </div>
-       
-
-
  <p><h3> Esse código em linguagem de programção <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" 
  width"40" height="40"/> contribuiu para que entendesse o conceito de herança e polimorfismo   
 .</h3></p>
@@ -18,6 +9,7 @@
 
 >    Extraído do livro ***Java como programar 4ª edição***, páginas 459 a 464
      adaptado para receber valores utilizando a classe ***Scanner(java.util.Scanner)***.
+    <div align="left"> ![114234_200sc](https://user-images.githubusercontent.com/66042254/155350239-7e97453e-7b5c-41ad-ba96-682fe8e0b004.jpg)</div>
 >> Após executar ***Run Application***.
 >>> **Obs**.: Utilize a vírgula para valores de ponto flututante. 
 >>-   Insira valores para ***boss*** (String firstName, String lastName, double salary ..
