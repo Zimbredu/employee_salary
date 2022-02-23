@@ -17,3 +17,5 @@
 >>-   Insira valores para ***pieceWorker***( String firstName, String lastName, double wage,  int numerOfItems ).
 >>-   Insira valores para ***hourlyWorker***( String firstName, String lastName, double wagePerHour, double hourWorker).
 >>> A seguir a saída executa pala ***classe javax.swing.JOptionePane***.
+>>> ![JOption_001](https://user-images.githubusercontent.com/66042254/155363729-7e6a7125-3ead-4786-8500-c2771d66df94.PNG)
+
