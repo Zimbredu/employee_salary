@@ -17,7 +17,7 @@
 >   Foi extraído do livro ***Java como programar 4ª edição***, páginas 459 a 464
      adaptado para receber valores utilizando a classe ***Scanner(java.util.Scanner)***.
 >> Após executar ***Run Application***.
->>> **Obs**.: utilize a vírgula para valores de ponto flututante. 
+>>> **Obs**.: Utilize a vírgula para valores de ponto flututante. 
 >>- 1 - Insira valores para ***boss*** (String firstName, String lastName, double salary ..
 >>- 2 - Insira valores para ***commissionWorker***( String firstName, String lastName, double salary, double commission, int quantity ).
 >>- 3 - Insira valores para ***pieceWorker***( String firstName, String lastName, double wage,  int numerOfItems ).
